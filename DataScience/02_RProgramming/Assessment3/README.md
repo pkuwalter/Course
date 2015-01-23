@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 This fourth programming assignment will be graded via a submit script which is described below. 
 

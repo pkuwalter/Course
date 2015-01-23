@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Exploratory Data Analysis Peer Assessment 2. 
 
@@ -17,7 +17,7 @@ I would prefer to use the Markdown (?) file there as a starting point, but I do 
 
 对于本作业的数据，你可以从课程网站以单个zip文件的形式获取：
 
-    互评作业数据 [29Mb]
+   * [互评作业数据](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip) [29Mb]
 
 zip文件包含以下两个文件：
 
@@ -31,17 +31,17 @@ PM2.5排放量数据(summarySCC_PM25.rds)：该文件包含一个数据帧，该数据帧含有1999年、
 ## 20 09001 10200504  PM25-PRI     0.388 POINT 1999
 ## 24 09001 10200602  PM25-PRI     1.490 POINT 1999
 
-    fips: 一个五位数（表示为字符串），代表美国的县
+   * fips: 一个五位数（表示为字符串），代表美国的县
 
-    SCC: 以数字串表示的来源名称（请参见来源代码分类表）
+   * SCC: 以数字串表示的来源名称（请参见来源代码分类表）
 
-    Pollutant: 代表污染物的字符串
+   * Pollutant: 代表污染物的字符串
 
-    Emissions: PM2.5排放量，以吨为单位
+   * Emissions: PM2.5排放量，以吨为单位
 
-    type: 来源类型（point、non-point、on-road或non-road）
+   * type: 来源类型（point、non-point、on-road或non-road）
 
-    year: 排放量记录所属的年份
+   * year: 排放量记录所属的年份
 
 来源分类代码表(Source_Classification_Code.rds)：该表格指明了排放量表中SCC数字串与PM2.5源实际名称之间的映射关系。来源从一般到具体按几种不同的方式划分，你可以选择浏览自己认为最有用的类别。例如，来源“10100101”代表“外部燃烧物/电气/无烟煤/粉煤”。
 
