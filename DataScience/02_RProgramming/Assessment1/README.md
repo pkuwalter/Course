@@ -116,15 +116,25 @@ at the console prompt (after source-ing the file). NOTE that the submit script r
 <!-- -->
 
 [1] 'pollutantmean' part 1
+
 [2] 'pollutantmean' part 2
+
 [3] 'pollutantmean' part 3
+
 [4] 'pollutantmean' part 4
+
 [5] 'complete' part 1
+
 [6] 'complete' part 2
+
 [7] 'complete' part 3
+
 [8] 'corr' part 2
+
 [9] 'corr' part 2
+
 [10] 'corr' part 2
+
 Which part are you submitting [1-10]? 
 
 We will compare the output of your functions to the correct output. For each test passed you receive the specified number of points on the Assignments List web page. 
